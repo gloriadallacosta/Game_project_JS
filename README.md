@@ -1,4 +1,4 @@
-# ItPI-FinalProject
+# FinalProject
 Final project for the course of Introduction of Programming I - BSc Computer Science @ University of London
 Platform videogame developed in Javascript using P5js library.
 https://p5js.org/
